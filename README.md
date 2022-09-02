@@ -1,3 +1,3 @@
 # Ciclos y listas en Python
-### Programado por: David Martelo
+### Programado por: David Martinez Martelo
 ***
