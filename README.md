@@ -1,2 +1,3 @@
-# PythonSURA5
-Ciclos y listas en Python
+# Ciclos y listas en Python
+### Programado por: David Martelo
+***
